@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><Profile>
+      <Artist>
+              <name> Sad Man </name>
+              <country> Thailand </country>
+              <company> GMM </company>
+              <album name="Very Sad" year="2017">
+                      <song id="1" length="30" lyrics="Udom" melody="TJ" name="broken heart"/>
+                      <song id="2" length="10" lyrics="Somchai" melogy="lin" name="betray"/>
+              </album>
+              <award name="best song">
+                      <description> best song in 2016 </description>
+              </award>
+      </Artist>
+
+      <Artist>
+              <name> Happy Man </name>
+              <country> US </country>
+              <company> Verizon </company>
+              <album name="Yaranaika" year="2015">
+                      <song id="1" length="60" lyrics="Sora" melody="Aoi" name="purple way"/>
+                      <song id="2" length="70" lyrics="Sada" melogy="Jas" name="gold Mine"/>
+              </album>
+              <award name="Hit Song">
+                      <description> Hit song in 2015 </description>
+              </award>
+      </Artist>
+
+      <Artist>
+              <name> One Punch Man </name>
+              <country> Japan </country>
+              <company> Johnson </company>
+              <album name="One Punch" year="2016">
+                      <song id="1" length="80" lyrics="Rose" melody="depapepe" name="this way"/>
+                      <song id="2" length="70" lyrics="Lay" melogy="depapepe" name="color"/>
+              </album>
+              <award name="Popular Vote">
+                      <description> Popular vote in 2016 </description>
+              </award>
+      </Artist>
+<Artist><name>Jirakorn</name><country>England</country><company>Direction</company><album name="Black Corn" year="2017"><song id="1" length="60" lyrics="Beer" melody="Daigo" name="Wood"/></album><award name="Best Melody"><description>Best Melody in 2017</description></award></Artist></Profile>
